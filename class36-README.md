@@ -42,7 +42,6 @@ Redux is simply a store to store the state of the variables in your app. Redux c
 
 In short, Redux is a way to manage the “state” or we can say it is a cache or storage that can be accessed by all components with a structured way. It has to be accessed through a “Reducer” and “Actions”
 
-![redux](./assets/redux.png)
 
 # When to use Redux
 
